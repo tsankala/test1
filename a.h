@@ -14,7 +14,7 @@ namespace biblio
 {
 hi
   /**
-   * \class reference
+   * \class reference thomassankalashikiro
    * \brief Classe modélisant l'interface d'une reference.
    */
   class reference
