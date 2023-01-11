@@ -12,7 +12,7 @@ thomas sankala shkiro nyt
 #include <string>
 namespace biblio
 {
-
+hi
   /**
    * \class reference
    * \brief Classe modélisant l'interface d'une reference.
