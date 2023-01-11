@@ -1,6 +1,6 @@
 
 /**
- * \file reference.h
+ * \file reference.h  THOMASSSSSSSSSSSSS
  * \brief Prototype des fonctions de la classe reference.
  * \author Thomas-Sankala
  * \version 0.1
