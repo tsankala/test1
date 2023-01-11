@@ -6,15 +6,14 @@
  * \version 0.1
  * \date 2022-10-22
  */
-thomas sankala shkiro nyt
+
 #ifndef REFERENCE_H
 #define REFERENCE_H
 #include <string>
 namespace biblio
 {
-hi
+
   /**
-   * \class reference thomassankalashikiro
    * \brief Classe modélisant l'interface d'une reference.
    */
   class reference
